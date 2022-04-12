@@ -8,3 +8,4 @@ Atividades SCRATCH - PA:
 # Exemplo 03 SCRATCH: https://scratch.mit.edu/projects/671450676/
 # Exemplo 04 SCRATCH: https://scratch.mit.edu/projects/671461744/
 # Exemplo 05 SCRATCH: https://scratch.mit.edu/projects/671474933/
+# Jogo SCRATCH: https://scratch.mit.edu/projects/674903382/
