@@ -1,0 +1,12 @@
+Algoritmo CalculaValorTotal 				OBS: qtde: quantidade 
+	Entre com um valor para valor			     vt: valor total 	
+	Entre com um valor para qtde 
+
+	Faça VT = (qtde*valor)
+	Mostre VT
+FimAlgoritmo
+
+Teste de Mesa
+VALOR	QTDE	VT
+10,90	 5	54,5	 
+17,50	 3	52,5	
