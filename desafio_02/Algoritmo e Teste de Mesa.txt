@@ -1,0 +1,20 @@
+
+Algoritmo CalcularHoraExtra
+
+	Entre com um valor para as horas e atribua a horas
+	Entre com um valor para os minutos e atribua a minutos
+	Entre com um valor para o ganho por hora e atribua a ganho
+	Faca (minutos/60)+horas e atribua esse valor para resultado
+	Faca (resultado*ganho)*1.7 e atribua esse valor para hora_extra
+	Mostre hora_extra
+
+FimAlgoritmo
+
+Teste de Mesa
+
+horas		minutos		ganho por hora		resultado
+ 15h		 45min                25		 669,37
+ 20h             00min                25		 850,00
+
+
+
