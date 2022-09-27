@@ -1,6 +1,6 @@
 algoritmo "exemplo2"
-// FunÁ„o : calcular
-// Autor :Fellipe M.
+// Fun√ß√£o : calcular
+// Autor : Gabriel Garcia
 // Data : 16/08/2022
 
 
@@ -10,23 +10,23 @@ sinal:caracter
 inicio
 
 
-escreval("Digite o primeiro n˙mero")
+escreval("Digite o primeiro n√∫mero")
 leia(num1)
-escreval("Digite o segundo n˙mero")
+escreval("Digite o segundo n√∫mero")
 leia(num2)
-escreval("Digite um sinal para a equaÁ„o (+,-,*,/)")
+escreval("Digite um sinal para a equa√ß√£o (+,-,*,/)")
 leia(sinal)
 
 escolha sinal
 caso "+"
      escreval("A soma dos numeros resulta em: ",num1+num2)
 caso "-"
-     escreval("A subtraÁ„o dos numeros resulta em: ",num1-num2)
+     escreval("A subtra√ß√£o dos numeros resulta em: ",num1-num2)
 caso "*"
-     escreval("A multiplicaÁ„o dos numeros resulta em: ",num1*num2)
+     escreval("A multiplica√ß√£o dos numeros resulta em: ",num1*num2)
 caso "/"
-     escreval("A divis„o dos numeros resulta em: ",num1/num2)
+     escreval("A divis√£o dos numeros resulta em: ",num1/num2)
 outrocaso
-     escreval("INV¡LIDO")
+     escreval("INV√ÅLIDO")
 fimescolha
 fimalgoritmo
